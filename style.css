@@ -1,0 +1,27 @@
+ul {
+    color: red;
+}
+
+ol {
+    color: green;
+}
+
+p {
+    text-align: center;
+}
+
+ul,
+ol {
+    cursor: pointer;
+}
+
+.recipe-header {
+    color: black;
+    background-color: lightblue;
+}
+
+.recipe-description {
+    color: grey;
+    background-color: beige;
+    font-size: 45px;
+}
