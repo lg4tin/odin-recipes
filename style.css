@@ -18,10 +18,16 @@ ol {
 .recipe-header {
     color: black;
     background-color: lightblue;
+    text-align: center;
 }
 
 .recipe-description {
     color: grey;
     background-color: beige;
     font-size: 45px;
+}
+
+.homepage-list {
+    width: 150px;
+    margin: 0 auto;
 }
